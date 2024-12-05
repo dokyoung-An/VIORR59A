@@ -8,7 +8,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="180.231">
-      <start projection="4" fov="136.926" pan="1.07258" tilt="-0.564067"/>
+      <start projection="4" fov="156.844" pan="-3.69851" tilt="-0.180688"/>
       <flyin projection="9" fov="170" pan="0" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fovstereographic="330" fovfisheye="360" fov="140" pan="360" tilt="90" scaletofit="1"/>
@@ -19,7 +19,9 @@
     <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
       <label width="180" height="20" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" background="1" borderradius="1" borderalpha="1" backgroundalpha="1" border="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
       <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
-      <hotspot title="복도1" id="Point01" url="{node3}" target="" skinid="ht_node" description="" pan="-8.33" tilt="-21.54"/>
+      <hotspot title="복도1" id="Point01" url="{node3}" target="" skinid="ht_node" description="" pan="-8.76" tilt="-20.48"/>
+      <hotspot title="침실1" id="Point02" url="{node8}" target="" skinid="ht_node" description="" pan="-0.17" tilt="-10.37"/>
+      <hotspot title="공용욕실" id="Point03" url="{node2}" target="" skinid="ht_node" description="" pan="-350.49" tilt="-19.88"/>
     </hotspots>
     <media/>
     <transition enabled="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" softedge="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomoutpause="1" zoomin="0"/>
@@ -35,7 +37,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="83.4599">
-      <start projection="4" fov="136.926" pan="1.07258" tilt="-0.564067"/>
+      <start projection="4" fov="156.844" pan="-163.183" tilt="-0.635808"/>
       <flyin projection="9" fov="170" pan="0" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fovstereographic="330" fovfisheye="360" fov="140" pan="360" tilt="90" scaletofit="1"/>
@@ -66,7 +68,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="0">
-      <start projection="4" fov="136.926" pan="-178.804" tilt="-0.745449"/>
+      <start projection="4" fov="156.844" pan="178.929" tilt="0.220656"/>
       <flyin projection="9" fov="170" pan="0" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fovstereographic="330" fovfisheye="360" fov="140" pan="360" tilt="90" scaletofit="1"/>
@@ -96,7 +98,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="85.127">
-      <start projection="4" fov="136.926" pan="0.709806" tilt="-2.0504"/>
+      <start projection="4" fov="156.844" pan="-0.0863526" tilt="-0.836714"/>
       <flyin projection="9" fov="170" pan="0" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fovstereographic="330" fovfisheye="360" fov="140" pan="360" tilt="90" scaletofit="1"/>
@@ -154,7 +156,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="183.044">
-      <start projection="4" fov="136.926" pan="-180" tilt="-0.146198"/>
+      <start projection="4" fov="156.844" pan="177.404" tilt="0.0556061"/>
       <flyin projection="9" fov="170" pan="0" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fovstereographic="330" fovfisheye="360" fov="140" pan="360" tilt="90" scaletofit="1"/>
@@ -182,7 +184,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="86.5464">
-      <start projection="4" fov="148.118" pan="1.77926" tilt="0.43759"/>
+      <start projection="4" fov="156.844" pan="0.278862" tilt="1.11848"/>
       <flyin projection="9" fov="170" pan="0" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fovstereographic="330" fovfisheye="360" fov="140" pan="360" tilt="90" scaletofit="1"/>
@@ -266,7 +268,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="182.641">
-      <start projection="4" fov="136.926" pan="0.76964" tilt="-0.557156"/>
+      <start projection="4" fov="156.844" pan="2.41972" tilt="0.0732004"/>
       <flyin projection="9" fov="170" pan="0" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fovstereographic="330" fovfisheye="360" fov="140" pan="360" tilt="90" scaletofit="1"/>
@@ -293,7 +295,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="-0.756725">
-      <start projection="4" fov="136.926" pan="-0.862439" tilt="-0.0825496"/>
+      <start projection="4" fov="156.844" pan="1.48301" tilt="-0.385913"/>
       <flyin projection="9" fov="170" pan="0" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fovstereographic="330" fovfisheye="360" fov="140" pan="360" tilt="90" scaletofit="1"/>
