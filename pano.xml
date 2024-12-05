@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour apprev="20025" start="node11" appversion="7.0.10">
+<tour apprev="20025" start="node5" appversion="7.0.10">
   <panorama id="node11" hideabout="1">
     <input width="2000" height="2000" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1">
       <level width="2000" height="2000" preload="0" predecode="0"/>
@@ -182,7 +182,7 @@
       <preview color="0x808080" strip="1"/>
     </input>
     <view fovmode="2" pannorth="86.5464">
-      <start projection="4" fov="136.926" pan="-178.089" tilt="-1.97612"/>
+      <start projection="4" fov="148.118" pan="1.77926" tilt="0.43759"/>
       <flyin projection="9" fov="170" pan="0" tilt="-90"/>
       <min fovpixel="2" pan="0" tilt="-90"/>
       <max fovstereographic="330" fovfisheye="360" fov="140" pan="360" tilt="90" scaletofit="1"/>
@@ -194,6 +194,7 @@
       <label width="180" height="20" textcolor="0x000000" enabled="1" backgroundcolor="0xffffff" background="1" borderradius="1" borderalpha="1" backgroundalpha="1" border="1" wordwrap="1" bordercolor="0x000000" textalpha="1"/>
       <polystyle backgroundcolor="0x0000ff" handcursor="1" bordercolor="0x0000ff" mode="0" borderalpha="1" backgroundalpha="0.25098"/>
       <hotspot title="거실" id="Point01" url="{node1}" target="" skinid="ht_node" description="" pan="-359.6" tilt="-14.66"/>
+      <hotspot title="파우더룸" id="Point02" url="{node10}" target="" skinid="ht_node" description="" pan="-278.17" tilt="-25.01"/>
     </hotspots>
     <media/>
     <transition enabled="1" type="crossdissolve" zoomfov="40" zoomspeed="2" zoomafteroutfov="40" zoomout="0" delay="none" softedge="0" blendtime="1" blendcolor="0x000000" zoomafterinfov="140" zoomoutpause="1" zoomin="0"/>
